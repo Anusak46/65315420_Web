@@ -1,1 +1,1 @@
-This website is solely for educational purposes and no commercial benefits are sought.
+Design for Simulation (65315420 อนุศักดิ์ บัวเสียน)
